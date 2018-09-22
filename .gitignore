@@ -1,0 +1,7 @@
+# Ignore extra documentation and object files
+
+*.odt
+*.pdf
+*.zip
+*.out
+
